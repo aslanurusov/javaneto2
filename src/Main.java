@@ -5,8 +5,8 @@ public class Main {
         int creditedamount = 1600;
         System.out.println(" Бонус за зачисление 1600 рублей составляет:");
         int bonus;
-        if( creditedamount >1000) {
-            System.out.println( bonus = creditedamount / 10 );
+        if (creditedamount > 1000) {
+            System.out.println(bonus = creditedamount / 10);
         } else {
             bonus = 0;
 
@@ -14,8 +14,8 @@ public class Main {
         }
 
 
-        }
-
     }
+
+}
 
 
